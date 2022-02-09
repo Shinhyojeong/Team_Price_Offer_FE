@@ -4,7 +4,9 @@
 
 # **구매자가 제안해요, Offer! 🤑**
 구매자가 가격을 제안하는 중고거래 플랫폼
-
+<br/>
+<br/>
+[Offer Link](https://offerprice.vercel.app)
 ## **🤑 Price 팀원 소개**  
  |정수현 <img src="https://user-images.githubusercontent.com/55920132/120939947-86a46380-c755-11eb-979e-d5441c0bb286.png"  width="18px;">  |박건희 <img src="https://user-images.githubusercontent.com/55920132/120939947-86a46380-c755-11eb-979e-d5441c0bb286.png"  width="18px;"> |황지훈 <img src="https://user-images.githubusercontent.com/55920132/120939947-86a46380-c755-11eb-979e-d5441c0bb286.png"  width="18px;"> |손수림 <img src="https://user-images.githubusercontent.com/55920132/146872476-32eec75f-6ae1-44d4-9ab9-e361064cf687.png"  width="18px;">  |조주영 <img src="https://user-images.githubusercontent.com/55920132/146872476-32eec75f-6ae1-44d4-9ab9-e361064cf687.png"  width="18px;"> |신효정 <img src="https://user-images.githubusercontent.com/55920132/146872476-32eec75f-6ae1-44d4-9ab9-e361064cf687.png"  width="18px;"> |
 | :----: | :----: | :----: | :----: | :----: | :----: |
